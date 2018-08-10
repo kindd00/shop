@@ -7,8 +7,8 @@
     print '<br>';
   }else{
     print 'ようこそ';
-    print $SESSION['member_name'];
-    print '様';
+    print $_SESSION['member_name'];
+    print '様　';
     print '<a href="member_logout.php">ログアウト</a>';
     print '<br>';
   }
@@ -17,7 +17,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>ろくまる農園</title>
+<title>ABC商店</title>
 </head>
 <body>
 <?php
