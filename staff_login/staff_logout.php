@@ -10,10 +10,9 @@ session_destroy();;
  <html>
  <head>
  <meta charset="utf-8">
- <title>ABC商店</title>
+ <title>ろくまる農園</title>
  </head>
  <body>
-   カートを空にしました。<br>
-
+   ログアウトしました。
  </body>
  </html>

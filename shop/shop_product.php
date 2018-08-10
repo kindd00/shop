@@ -17,7 +17,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>ろくまる農園</title>
+<title>ABC商店</title>
 </head>
 <body>
 <?php

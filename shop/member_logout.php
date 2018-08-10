@@ -13,7 +13,8 @@ session_destroy();;
  <title>ABC商店</title>
  </head>
  <body>
-   カートを空にしました。<br>
-
+   ログアウトしました。
+   <br>
+   <a href="shop_list.php">商品一覧へ</a>
  </body>
  </html>
